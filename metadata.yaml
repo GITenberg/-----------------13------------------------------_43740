@@ -1,0 +1,33 @@
+_repo: '-----------------13------------------------------_43740'
+_version: 0.1.0
+alternative_title:
+- Bet Nekhot ha'Alakhot o Toratan shel Rishonim, heleq rishon
+- Halachische Schriften der Geonim
+contributor:
+  compiler:
+    agent_name: Horowitz, Chaim M.
+    aliases:
+    - Horowitz, Chaim Meir
+    - הורװיץ, חײם מאיר
+    - הורביץ, חיים מאיר
+    deathdate: 1905
+    gutenberg_agent_id: '42473'
+    url: http://www.gutenberg.org/2009/agents/42473
+covers:
+- cover_type: archival
+  image_path: 43740-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2013-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43740'
+language: he
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish law'
+- !lcsh 'Geonic literature'
+- !lcc 'BM'
+title: "בית נכות ההלכות\r\nאו תורתן של ראשונים, חלק ראשון"
+url: http://www.gutenberg.org/ebooks/43740
